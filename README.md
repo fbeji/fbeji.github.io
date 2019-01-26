@@ -2,8 +2,8 @@
 
 ## Links
 
-*  [LinkedIn](https://www.linkedin.com/in/faycelbeji/)
-*[Github](https://github.com/fbeji/temp-converter)
+* [LinkedIn](www.linkedin.com/in/faycel-beji-22b35166)
+* [Github](https://github.com/fbeji)
 
 * This is a bullet point
 *
