@@ -11,7 +11,7 @@
 * Degree in Aerospace Engineering
 * Worked for the Missile Defense Agency for 2 years, 
 * Worked 1 year as a Mechanical Design Engineer
-* WOrked 1 year as a data reductionist
+* Worked 1 year as a data reductionist
 
 
 ## Qualitative Accomplishments
