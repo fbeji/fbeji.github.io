@@ -54,4 +54,9 @@ Develop the coding skills for software engineering through different languages i
  ** the use of loops including the if statement, switch statment, for loops, while loops and do-while loop
  * Used Flowgorithm to write a Java code
  
-      
+# Week 2 
+
+* developed various codes using Java, please check my repository.
+* dived more in depth into program control statements
+* More on classes, objects and methods
+* worked with various data types and operators
