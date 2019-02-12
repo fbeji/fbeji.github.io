@@ -42,6 +42,12 @@ Develop the coding skills for software engineering through different languages i
 
 "Hello, My name is Faycel. I am an Engineer and Software Developer, I develop Software for computers to help machines make smart decisions through Machine Learning and Data Analysis, I am currently working on a software for the Cancer Research Lab to identify cancer patient at an early stage, I have also developed an algorithm for face recognition. I know your company is developing AI technology, would you like to have coffee sometimes to discuss perhaps further projects that your company is working on." 
 
+## Persuasion Exercise Links
+
+[Persuasion1] (https://github.com/fbeji/fbeji.github.io/issues/2)
+[Persuasion2] (https://github.com/fbeji/fbeji.github.io/issues/3)
+
+
 
 
 # Week 1
@@ -62,3 +68,7 @@ Develop the coding skills for software engineering through different languages i
 * dived more in depth into program control statements
 * More on classes, objects and methods
 * worked with various data types and operators
+
+
+
+
