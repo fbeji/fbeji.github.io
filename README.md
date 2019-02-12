@@ -70,6 +70,12 @@ Develop the coding skills for software engineering through different languages i
 * More on classes, objects and methods
 * worked with various data types and operators
 
+# Week 3
+
+* developed various codes using Java, please check my repository.
+* Dived in more details on Methods and Classes in Java: Passing Objects to methods, Overload Methods, Recursion and Overload Methods.
+* Started on collecting data for my personal Android project.
+* Looking for databases with api developer options.
 
 
 
