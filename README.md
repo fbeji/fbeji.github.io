@@ -6,6 +6,7 @@
 * [Github](https://github.com/fbeji)
 * [Resume](https://github.com/fbeji/fbeji.github.io/blob/master/Resume_2018GRADU.pdf)
 
+
 ## My name is Faycel Beji, I am an Engineer and Software Developer and would like to work for a tech company. 
 
 ## Quantitative Accomplishments
