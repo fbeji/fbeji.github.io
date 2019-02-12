@@ -44,8 +44,8 @@ Develop the coding skills for software engineering through different languages i
 
 ## Persuasion Exercise Links
 
-[Persuasion1](https://github.com/fbeji/fbeji.github.io/issues/2)
-[Persuasion2](https://github.com/fbeji/fbeji.github.io/issues/3)
+* [Persuasion1](https://github.com/fbeji/fbeji.github.io/issues/2)
+* [Persuasion2](https://github.com/fbeji/fbeji.github.io/issues/3)
 
 
 
