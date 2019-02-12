@@ -5,6 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/faycel-beji-22b35166/)
 * [Github](https://github.com/fbeji)
 * [Resume](https://github.com/fbeji/fbeji.github.io/blob/master/Resume_2018GRADU.pdf)
+* [Picture](https://github.com/fbeji/fbeji.github.io/issues/1)
 
 
 ## My name is Faycel Beji, I am an Engineer and Software Developer and would like to work for a tech company. 
