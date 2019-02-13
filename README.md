@@ -86,8 +86,8 @@ Organizations:
 * Reason: The company is a leader in Software developemnt and Avionics, they are a good fit for me with my Aerospace background.
 
 
+# Game Task
 
-
-
+The game was fun, being a team player was the only way to win. The strategie we followed was effective and we all learned from this experience that tema work pays off. 
 
 
